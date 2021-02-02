@@ -1,0 +1,144 @@
+first_name,last_name,year,department 
+Joan,Hamilton-Huber,2,HR
+Nathan,Brigmon,5,Austin Code Department
+Shawn,Lincoln,8,
+Chris,Hernandez,,Austin Convention Center
+,,7,Austin Energy
+Christine,Thies,3,IT 
+Gus,Delgado,3,Austin Fire
+Ron,MacKay,,Austin Police Department
+,,7,HR
+Paige,Warner,4,Austin Public Health
+Stefan,Wray,5,
+Joe,Faulk,9,Austin Public Library
+Bryce,Benton,2,Austin Public Library
+Sarah,Cronin,4,
+Gabriel,Gonzalez,6,Austin Resource Recovery
+Patricia,Genty-Andrade,8,Austin Water Utility
+Patti,Edwards,9,IT 
+Robert,Bizendine,1,Budget Office
+Korrie,Johnson,2,HR
+,,4,Capital Contracting Office
+Grace,Kretchmer,5,City Clerks Office
+Kathryn,Darnall,7,City Clerks Office
+Ashlee,Harris,,Communications & Public Information Office
+Ashley,Parsons,9,IT 
+,,8,Controller's Office
+Sara,Behunek,6,Corridor Program Implementation Office
+Zachary,Ashburn,4,
+Julia,Robbins,2,Development Service Department
+,,1,Downtown Austin Community Court
+Melissa,Alvarado,5,Economic Development
+David,Andersen,6,Emergency Medical Services
+Lynn,Cohee,7,Emergency Medical Services
+Patrick,Murphy,5,IT 
+?,,,Equity Office
+Tyler,Higdon,3,Fleet Services
+Perry,Perez,2,HR
+Daniel,Honker,1,Innovation Office
+Richard,Bailey,4,Intergovernmental Relations
+Yanira,Oliveras,6,Labor Relations
+John,Walker,7,LAW Department
+Gavin,Lambert,1,Municipal Court 
+Tomas,Salinas,3,Municipal Court 
+Jim,Warren,4,Municipal Court Judge
+Jonathan,Tomko,8,Neighborhood Housing and Community Development
+Josh,Rudow,9,IT 
+Katy,Zamesnick,6,Office of CFO
+Jamila,Siller,5,Office of Performance Management
+Kimberly,Olivares,2,HR
+Farah,Muscadin,4,Office of Police Monitor
+Liz,Hargrove,,Office of Real Estate Services
+Zach,Baumer,7,IT 
+,,8,Office of the City Auditor
+Kristi,Samilpa,9,Office of the City Manager
+Jeff,Hayes,3,Office of the Medical Director
+John,Nixon,4,
+Micheal,Strycharske,1,Parks & Recreation Department
+Sam,Tedford,,Planning and Zoning
+Gabriel,Gonzalez,6,Project Systems Intelligence Office (?)
+Bryan,Thompson,8,Public Works Department
+Megan,Bell,,HR
+,,4,Purchasing Office
+Blender,Hill,,Small & Minority Business Resources
+Jesse,Rodriguez,8,Telecom & Regulatory Affairs
+John,Speirs,?,IT 
+Gail,Ray,4,Treasury Office
+Robert,Clayton,2,Watershed Protection
+Thomas,Montgomery,1,Austin Resource Recovery
+Thomas,Montgomery,3,
+Angel,Flores,4,Homeland Security and Emergency Management
+Tyler,Myers,6,Office of the City Auditor
+Diana ,Martin,3,HR
+First Name,Last Name,,Department
+Joan,Hamilton-Huber,5,Animal Services Office
+Nathan,Brigmon,7,Austin Code Department
+Shawn,Lincoln,9,
+Chris,Hernandez,1,Austin Convention Center
+?,Lambert,2,Austin Energy
+Christine,Thies,4,Austin Fire
+Gus,Delgado,5,Austin Fire
+Ron,MacKay,,Austin Police Department
+,,,Mayor & Council
+Paige,Warner,7,Austin Public Health
+Stefan,Wray,9,HR
+Joe,Faulk,?,Austin Public Library
+Bryce,Benton,5,
+Sarah,Cronin,7,Austin Public Library
+Gabriel,?,2,Austin Resource Recovery
+Patricia,Genty-Andrade,3,HR
+Patti,Edwards,4,Aviation Department
+Robert,Bizendine,,?
+Korrie,Johnson,2,Building Services
+,,6,Capital Contracting Office
+Grace,Kretchmer,7,IT 
+Kathryn,Darnall,8,City Clerks Office
+Ashlee,Harris,9,HR
+Ashley,Parsons,3,Communications & Technology Management
+,,6,HR
+Sara,Behunek,7,Corridor Program Implementation Office
+Zachary,Ashburn,4,IT 
+Julia,Robbins,5,Development Service Department
+,,2,Downtown Austin Community Court
+Melissa,Alvarado,3,Economic Development
+David,Andersen,,
+Lynn,Cohee,8,Emergency Medical Services
+Patrick,Murphy,9,Emergency Medical Services
+,,?,Equity Office
+Tyler,Higdon,3,Fleet Services
+Perry,Perez,5,Human Resources Department
+Daniel,Honker,,Innovation Office
+Richard,Bailey,8,Intergovernmental Relations
+Yanira,Oliveras,2,IT 
+?,Walker,1,LAW Department
+Gavin,Lambert,2,HR
+Tomas,Salinas,,Municipal Court
+Jim,Warren,6,Municipal Court Judge
+Jonathan,Tomko,,
+Josh,Rudow,1,Neighborhood Housing and Community Development
+Katy,Zamesnick,5,Office of CFO
+Jamila,Siller,8,IT 
+Kimberly,Olivares,9,Office of Performance Management
+Farah,Muscadin,,
+Liz,?,4,Office of Real Estate Services
+Zach,Baumer,6,Office of Sustainability
+Patrick,Johnson,,Office of the City Auditor
+Gabriel,Gonzalez,7,?
+Jeff,Hayes,9,Office of the Medical Director
+John,Nixon,,HR
+Micheal,Strycharske,3,Parks & Recreation Department
+Sam,Tedford,3,IT 
+Brian,Long,5,Project Systems Intelligence Office (?)
+Bryan,Thompson,?,Public Works Department
+Megan,Bell,3,?
+,,6,Purchasing Office
+Blender,Hill,2,Small & Minority Business Resources
+Jesse,Rodriguez,,
+John,Speirs,7,Telecom & Regulatory Affairs
+Gail,Ray,2,Treasury Office
+Robert,Clayton,7,?
+Thomas,Montgomery,8,Austin Resource Recovery
+Thomas,Montgomery,,HR
+Angel,Flores,,IT 
+Tyler,?,9,Office of the City Auditor
+Diana,Martin,6,HR
